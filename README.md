@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2D42,100:6D597A&height=150&section=header&text=Odelya%20Matatov&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Software%20Development%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Computer%20Vision&descAlignY=72&descSize=16" />
-</p>
+## Odelya Matatov
+
+Software Development · C++ · Python · Computer Vision
 
 **B.Sc. Computer Science student** at The Academic College of Tel Aviv–Yaffo.<br>
 Working on systems programming, networking, and AI / computer-vision projects.
