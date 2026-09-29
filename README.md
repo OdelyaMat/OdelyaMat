@@ -2,31 +2,31 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2D42,100:6D597A&height=150&section=header&text=Odelya%20Matatov&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Software%20Development%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Computer%20Vision&descAlignY=72&descSize=16" />
 </p>
 
-**B.Sc. Computer Science student** at The Academic College of Tel Aviv–Yaffo.
+**B.Sc. Computer Science student** at The Academic College of Tel Aviv–Yaffo.<br>
 Working on systems programming, networking, and AI / computer-vision projects.
 
 ---
 
 ### Projects
 
-**[Smart Traffic Light System](https://github.com/OdelyaMat/Traffic-Light-Controller)**
-Four-lane intersection simulation that uses deep-learning object detection (RT-DETR) to estimate vehicle density and control traffic lights dynamically. Implemented the traffic-light control algorithms (Round Robin, Adaptive Timer, Starvation-Aware, Proportional Share and more) and benchmarked them across traffic scenarios.
+**[Smart Traffic Light System](https://github.com/OdelyaMat/Traffic-Light-Controller)**<br>
+Four-lane intersection simulation that uses deep-learning object detection (RT-DETR) to estimate vehicle density and control traffic lights dynamically. Implemented the traffic-light control algorithms (Round Robin, Adaptive Timer, Starvation-Aware, Proportional Share and more) and benchmarked them across traffic scenarios.<br>
 `Python` `Deep Learning` `Computer Vision` `Simulation`
 
-**[AiTest – Spoken Hebrew Practice Platform](https://github.com/OdelyaMat/AiTest)** · [Live demo](https://ai--test.streamlit.app)
-Team project: a platform for practicing spoken Hebrew with speech recognition and AI-generated feedback.
+**[AiTest – Spoken Hebrew Practice Platform](https://github.com/OdelyaMat/AiTest)** · [Live demo](https://ai--test.streamlit.app)<br>
+Team project: a platform for practicing spoken Hebrew with speech recognition and AI-generated feedback.<br>
 `Python` `OpenAI GPT & Whisper` `Streamlit` `MongoDB`
 
-**[HTTP Web Server](https://github.com/OdelyaMat/Web-Server)**
-HTTP server built from scratch with Winsock. Handles multiple clients using non-blocking sockets and `select()`, supports GET, POST, HEAD, OPTIONS, PUT, DELETE and TRACE, with connection timeouts.
+**[HTTP Web Server](https://github.com/OdelyaMat/Web-Server)**<br>
+HTTP server built from scratch with Winsock. Handles multiple clients using non-blocking sockets and `select()`, supports GET, POST, HEAD, OPTIONS, PUT, DELETE and TRACE, with connection timeouts.<br>
 `C++` `Winsock` `TCP/IP` `HTTP`
 
-**[Donkey Kong – Console Game](https://github.com/OdelyaMat/Donkey-Kong)**
-Recreation of the arcade game with gravity and ladder physics, an enemy class hierarchy, level loading from files, and a record / replay / validation system.
+**[Donkey Kong – Console Game](https://github.com/OdelyaMat/Donkey-Kong)**<br>
+Recreation of the arcade game with gravity and ladder physics, an enemy class hierarchy, level loading from files, and a record / replay / validation system.<br>
 `C++` `OOP` `File I/O`
 
-**[SQL Database Queries](https://github.com/OdelyaMat/SQL-Database-Queries)**
-Relational database exercises: JOINs, subqueries, aggregation, views and schema design.
+**[SQL Database Queries](https://github.com/OdelyaMat/SQL-Database-Queries)**<br>
+Relational database exercises: JOINs, subqueries, aggregation, views and schema design.<br>
 `SQL` `SQLite`
 
 ---
