@@ -41,4 +41,4 @@ Relational database exercises: JOINs, subqueries, aggregation, views and schema 
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/Email-odelya369%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:odelya369@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Odelya%20Matatov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odelya-matatov-13193b259/) [![Email](https://img.shields.io/badge/Email-odelya369%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:odelya369@gmail.com)
