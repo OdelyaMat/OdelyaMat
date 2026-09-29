@@ -1,0 +1,44 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2D42,100:6D597A&height=150&section=header&text=Odelya%20Matatov&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Software%20Development%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Computer%20Vision&descAlignY=72&descSize=16" />
+</p>
+
+**B.Sc. Computer Science student** at The Academic College of Tel Aviv–Yaffo.
+Working on systems programming, networking, and AI / computer-vision projects.
+
+---
+
+### Projects
+
+**[Smart Traffic Light System](https://github.com/OdelyaMat/Traffic-Light-Controller)**
+Four-lane intersection simulation that uses deep-learning object detection (RT-DETR) to estimate vehicle density and control traffic lights dynamically. Implemented the traffic-light control algorithms (Round Robin, Adaptive Timer, Starvation-Aware, Proportional Share and more) and benchmarked them across traffic scenarios.
+`Python` `Deep Learning` `Computer Vision` `Simulation`
+
+**[AiTest – Spoken Hebrew Practice Platform](https://github.com/OdelyaMat/AiTest)** · [Live demo](https://ai--test.streamlit.app)
+Team project: a platform for practicing spoken Hebrew with speech recognition and AI-generated feedback.
+`Python` `OpenAI GPT & Whisper` `Streamlit` `MongoDB`
+
+**[HTTP Web Server](https://github.com/OdelyaMat/Web-Server)**
+HTTP server built from scratch with Winsock. Handles multiple clients using non-blocking sockets and `select()`, supports GET, POST, HEAD, OPTIONS, PUT, DELETE and TRACE, with connection timeouts.
+`C++` `Winsock` `TCP/IP` `HTTP`
+
+**[Donkey Kong – Console Game](https://github.com/OdelyaMat/Donkey-Kong)**
+Recreation of the arcade game with gravity and ladder physics, an enemy class hierarchy, level loading from files, and a record / replay / validation system.
+`C++` `OOP` `File I/O`
+
+**[SQL Database Queries](https://github.com/OdelyaMat/SQL-Database-Queries)**
+Relational database exercises: JOINs, subqueries, aggregation, views and schema design.
+`SQL` `SQLite`
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,opencv,sqlite,mongodb,git,github,visualstudio,vscode" />
+</p>
+
+---
+
+### Contact
+
+[![Email](https://img.shields.io/badge/Email-odelya369%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:odelya369@gmail.com)
