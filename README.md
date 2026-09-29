@@ -40,7 +40,7 @@ AI · Computer Vision · Backend Systems · Networking
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,opencv,sqlite,mongodb,git,github,visualstudio,vscode" />
+  <img alt="Tech stack: C++, Python, PyTorch, OpenCV, SQLite, MongoDB, Git, GitHub, Visual Studio, VS Code" src="https://skillicons.dev/icons?i=cpp,python,pytorch,opencv,sqlite,mongodb,git,github,visualstudio,vscode" />
 </p>
 
 ---
