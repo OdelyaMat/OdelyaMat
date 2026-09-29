@@ -31,6 +31,12 @@ Relational database exercises: JOINs, subqueries, aggregation, views and schema 
 
 ---
 
+### Interests
+
+AI · Computer Vision · Backend Systems · Networking
+
+---
+
 ### Tech Stack
 
 <p align="left">
