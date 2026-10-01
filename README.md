@@ -1,4 +1,4 @@
-## Odelya Matatov
+## Odelya 
 
 Software Development · C++ · Python · Computer Vision
 
