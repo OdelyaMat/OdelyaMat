@@ -1,4 +1,4 @@
-<img src="assets/a.png" width="100%" />
+<img src="assets/B.png" width="100%" />
 
 <div align="center">
 
