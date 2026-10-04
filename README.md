@@ -34,9 +34,8 @@ AI · Computer Vision · Backend Systems · Networking · Embedded & Tangible In
 
 ---
 
-### GitHub Stats
+### Top Languages
 
-![Odelya's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdelyaMat&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdelyaMat&layout=compact&theme=dark&hide_border=true)
 
 ---
