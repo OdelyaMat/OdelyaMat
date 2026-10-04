@@ -1,4 +1,4 @@
-<img src="assets/banner_top_thin.png" width="100%" />
+<img src="assets/banner_top_thin_1.png" width="100%" />
 
 <div align="center">
 
