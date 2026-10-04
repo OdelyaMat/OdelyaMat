@@ -1,6 +1,12 @@
-# Hi, I'm Odelya Matatov 👋
+![banner](assets/banner_top.png)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=B.Sc.+Computer+Science+Student;Backend+%26+Full-Stack+Developer;Python+-+C%2B%2B+-+Node.js+-+SQL)
+<div align="center">
+
+# Hi, I'm Odelya Matatov ✨
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B39DFF&center=true&vCenter=true&width=600&lines=B.Sc.+Computer+Science+Student;Backend+%26+Full-Stack+Developer;Python+-+C%2B%2B+-+Node.js+-+SQL)
+
+</div>
 
 **B.Sc. Computer Science student** at The Academic College of Tel Aviv–Yaffo, graduating 2026.<br>
 Working on systems programming, networking, embedded/hardware interfaces, and AI / computer-vision projects.
@@ -36,10 +42,12 @@ AI · Computer Vision · Backend Systems · Networking · Embedded & Tangible In
 
 ### Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdelyaMat&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdelyaMat&layout=compact&hide_border=true&bg_color=00000000&title_color=B39DFF&text_color=9FE9F5&icon_color=B39DFF)
 
 ---
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Odelya%20Matatov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odelya-matatov-13193b259/) [![Email](https://img.shields.io/badge/Email-odelya369%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:odelya369@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Odelya%20Matatov-7C5CFF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odelya-matatov-13193b259/) [![Email](https://img.shields.io/badge/Email-odelya369%40gmail.com-2FA9C2?style=flat-square&logo=gmail&logoColor=white)](mailto:odelya369@gmail.com)
+
+![banner](assets/banner_footer.png)
