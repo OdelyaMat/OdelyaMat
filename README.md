@@ -3,7 +3,7 @@
 Software Development · C++ · Python · Computer Vision
 
 **B.Sc. Computer Science student** at The Academic College of Tel Aviv–Yaffo.<br>
-Working on systems programming, networking, and AI / computer-vision projects.
+Working on systems programming, networking, embedded/hardware interfaces, and AI / computer-vision projects.
 
 ---
 
@@ -21,6 +21,10 @@ Team project: a platform for practicing spoken Hebrew with speech recognition an
 HTTP server built from scratch with Winsock. Handles multiple clients using non-blocking sockets and `select()`, supports GET, POST, HEAD, OPTIONS, PUT, DELETE and TRACE, with connection timeouts.<br>
 `C++` `Winsock` `TCP/IP` `HTTP`
 
+**[Hebrew Word Game – RFID Vocabulary Game](https://github.com/OdelyaMat/Hebrew-Word-Game)**<br>
+Tangible Interfaces course project: a two-player, real-time Hebrew vocabulary game where physical RFID card scans drive a live game server, broadcasting turn, word and score updates over WebSocket.<br>
+`Node.js` `Express` `WebSocket` `Arduino` `RFID`
+
 **[Donkey Kong – Console Game](https://github.com/OdelyaMat/Donkey-Kong)**<br>
 Recreation of the arcade game with gravity and ladder physics, an enemy class hierarchy, level loading from files, and a record / replay / validation system.<br>
 `C++` `OOP` `File I/O`
@@ -33,15 +37,13 @@ Relational database exercises: JOINs, subqueries, aggregation, views and schema 
 
 ### Interests
 
-AI · Computer Vision · Backend Systems · Networking
+AI · Computer Vision · Backend Systems · Networking · Embedded & Tangible Interfaces
 
 ---
 
 ### Tech Stack
 
-<p align="left">
-  <img alt="Tech stack: C++, Python, PyTorch, OpenCV, SQLite, MongoDB, Git, GitHub, Visual Studio, VS Code" src="https://skillicons.dev/icons?i=cpp,python,pytorch,opencv,sqlite,mongodb,git,github,visualstudio,vscode" />
-</p>
+![Tech stack: C++, Python, PyTorch, OpenCV, SQLite, MongoDB, Node.js, Arduino, Git, GitHub, Visual Studio, VS Code](https://skillicons.dev/icons?i=cpp,python,pytorch,opencv,sqlite,mongodb,nodejs,arduino,git,github,visualstudio,vscode)
 
 ---
 
