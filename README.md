@@ -13,6 +13,8 @@ Working on systems programming, networking, embedded/hardware interfaces, and AI
 
 🔭 Currently building backend and full-stack projects &nbsp;|&nbsp; 📫 Open to Junior Developer / QA opportunities
 
+🌐 **Portfolio:** [odelyamat.github.io](https://odelyamat.github.io)
+
 ---
 
 ### Projects
