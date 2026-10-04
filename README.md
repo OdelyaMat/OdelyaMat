@@ -1,37 +1,24 @@
-## Odelya Matatov
+# Hi, I'm Odelya Matatov 👋
 
-Software Development · C++ · Python · Computer Vision
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=B.Sc.+Computer+Science+Student;Backend+%26+Full-Stack+Developer;Python+-+C%2B%2B+-+Node.js+-+SQL)
 
-**B.Sc. Computer Science student** at The Academic College of Tel Aviv–Yaffo.<br>
+**B.Sc. Computer Science student** at The Academic College of Tel Aviv–Yaffo, graduating 2026.<br>
 Working on systems programming, networking, embedded/hardware interfaces, and AI / computer-vision projects.
+
+🔭 Currently building backend and full-stack projects &nbsp;|&nbsp; 📫 Open to Junior Developer / QA opportunities
 
 ---
 
 ### Projects
 
-**[Smart Traffic Light System](https://github.com/OdelyaMat/Traffic-Light-Controller)**<br>
-Four-lane intersection simulation that uses deep-learning object detection (RT-DETR) to estimate vehicle density and control traffic lights dynamically. Implemented the traffic-light control algorithms (Round Robin, Adaptive Timer, Starvation-Aware, Proportional Share and more) and benchmarked them across traffic scenarios.<br>
-`Python` `Deep Learning` `Computer Vision` `Simulation`
-
-**[AiTest – Spoken Hebrew Practice Platform](https://github.com/OdelyaMat/AiTest)** · [Live demo](https://ai--test.streamlit.app)<br>
-Team project: a platform for practicing spoken Hebrew with speech recognition and AI-generated feedback.<br>
-`Python` `OpenAI GPT & Whisper` `Streamlit` `MongoDB`
-
-**[HTTP Web Server](https://github.com/OdelyaMat/Web-Server)**<br>
-HTTP server built from scratch with Winsock. Handles multiple clients using non-blocking sockets and `select()`, supports GET, POST, HEAD, OPTIONS, PUT, DELETE and TRACE, with connection timeouts.<br>
-`C++` `Winsock` `TCP/IP` `HTTP`
-
-**[Hebrew Word Game – RFID Vocabulary Game](https://github.com/OdelyaMat/Hebrew-Word-Game)**<br>
-Tangible Interfaces course project: a two-player, real-time Hebrew vocabulary game where physical RFID card scans drive a live game server, broadcasting turn, word and score updates over WebSocket.<br>
-`Node.js` `Express` `WebSocket` `Arduino` `RFID`
-
-**[Donkey Kong – Console Game](https://github.com/OdelyaMat/Donkey-Kong)**<br>
-Recreation of the arcade game with gravity and ladder physics, an enemy class hierarchy, level loading from files, and a record / replay / validation system.<br>
-`C++` `OOP` `File I/O`
-
-**[SQL Database Queries](https://github.com/OdelyaMat/SQL-Database-Queries)**<br>
-Relational database exercises: JOINs, subqueries, aggregation, views and schema design.<br>
-`SQL` `SQLite`
+| Project | Description | Tech |
+|---|---|---|
+| **[Smart Traffic Light System](https://github.com/OdelyaMat/Traffic-Light-Controller)** | Four-lane intersection simulation using deep-learning object detection (RT-DETR) to control traffic lights dynamically; implemented and benchmarked multiple control algorithms. | `Python` `Deep Learning` `Computer Vision` |
+| **[AiTest – Spoken Hebrew Practice Platform](https://github.com/OdelyaMat/AiTest)** · [Live demo](https://ai--test.streamlit.app) | Team project: a platform for practicing spoken Hebrew with speech recognition and AI-generated feedback. | `Python` `OpenAI` `Streamlit` `MongoDB` |
+| **[HTTP Web Server](https://github.com/OdelyaMat/Web-Server)** | HTTP server built from scratch with Winsock, handling multiple clients via non-blocking sockets and `select()`. | `C++` `Winsock` `TCP/IP` |
+| **[Hebrew Word Game – RFID Vocabulary Game](https://github.com/OdelyaMat/Hebrew-Word-Game)** | Tangible Interfaces course project: a real-time Hebrew vocabulary game driven by physical RFID card scans over WebSocket. | `Node.js` `Express` `WebSocket` `Arduino` |
+| **[Donkey Kong – Console Game](https://github.com/OdelyaMat/Donkey-Kong)** | Recreation of the arcade game with gravity/ladder physics, an enemy class hierarchy and a record/replay system. | `C++` `OOP` |
+| **[SQL Database Queries](https://github.com/OdelyaMat/SQL-Database-Queries)** | Relational database exercises: JOINs, subqueries, aggregation, views and schema design. | `SQL` `SQLite` |
 
 ---
 
@@ -44,6 +31,13 @@ AI · Computer Vision · Backend Systems · Networking · Embedded & Tangible In
 ### Tech Stack
 
 ![Tech stack: C++, Python, PyTorch, OpenCV, SQLite, MongoDB, Node.js, Arduino, Git, GitHub, Visual Studio, VS Code](https://skillicons.dev/icons?i=cpp,python,pytorch,opencv,sqlite,mongodb,nodejs,arduino,git,github,visualstudio,vscode)
+
+---
+
+### GitHub Stats
+
+![Odelya's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdelyaMat&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OdelyaMat&layout=compact&theme=dark&hide_border=true)
 
 ---
 
