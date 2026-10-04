@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B39DFF&center=true&vCenter=true&width=600&lines=B.Sc.+Computer+Science+Student;Backend+%26+Full-Stack+Developer;Python+-+C%2B%2B+-+Node.js+-+SQL)
 
-<img src="assets/banner_top_thin.png" width="650" />
+<img src="assets/banner_top_thin.png" width="100%" />
 
 </div>
 
