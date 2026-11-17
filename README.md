@@ -4,11 +4,11 @@
 
 # Hi, I'm Odelya ✨
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B39DFF&center=true&vCenter=true&width=600&lines=B.Sc.+Computer+Science+Student;Backend+%26+Full-Stack+Developer;Python+-+C%2B%2B+-+Node.js+-+SQL)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B39DFF&center=true&vCenter=true&width=600&lines=B.Sc.+Computer+Science+Graduate;Backend+%26+Full-Stack+Developer;Python+-+C%2B%2B+-+Node.js+-+SQL)
 
 </div>
 
-**B.Sc. Computer Science student** at The Academic College of Tel Aviv–Yaffo, graduating 2026.<br>
+**B.Sc. Computer Science graduate** from The Academic College of Tel Aviv–Yaffo.<br>
 Working on systems programming, networking, embedded/hardware interfaces, and AI / computer-vision projects.
 
 🔭 Currently building backend and full-stack projects &nbsp;|&nbsp; 📫 Open to Junior Developer / QA opportunities
